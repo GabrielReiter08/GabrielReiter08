@@ -101,8 +101,8 @@ Olá, me chamo Gabriel Mateus Reiter, tenho 22 anos e sou natural de São Paulo,
 
   <img 
     align="left" 
-    alt="Node" 
-    title="Node"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
